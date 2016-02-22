@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[All Me]]></title>
         <description><![CDATA[All Me]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://benhadley.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 21:30:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 21:45:03 GMT</lastBuildDate>
+        <atom:link href="http://benhadley.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About Me</p>]]></description>
+            <link>http://benhadley.com/40118da0-755c-4e0a-8eb8-67f4d146edb3/index.html</link>
+            <guid isPermaLink="false">40118da0-755c-4e0a-8eb8-67f4d146edb3</guid>
+            <pubDate>Mon, 22 Feb 2016 21:44:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Redditor on Adult Swim]]></title>
-            <description><![CDATA[<article><h1>Redditor on Adult Swim</h1><p>It’s the background of our lives, you know? People get together and turn on the tv in late nights to laugh with each other. The weird absurdist humor of AS kept us company when we were alone, too. It was the one channel that spoke to us early 20 somethings in the early 2000s. It’s easy to dismiss this today now that there’s a million and one absurdist shows that are always trying to push boundaries. But back then it was genuinely absurdist and deeply subversive tot he new wave puritanical mindset the post 9/11 world had become crushed under.  Of course you’re depressed. Something that was a defining trait of your times has given up the ghost. You are very much OF your times. It was a unique space that will never come again. Society will never be what is was pre 9/11, and then post 9/11 again. You’ll never be that young or naive, or adventurous, or wreckless, or star struck again. New things will come, but they’ll probably cater to a demographic you no longer really are a part of and you’ll only understand it from the outside looking in. The “thing” of the coming future belongs to someone else, we will always be tourists in their native lands.  That deeply bitter, sickeningly sweet sorrow is just a part of growing older. I haven’t quite figured out what to do with it yet, either. I want to cling, but the past is too phantasmal to grab on to. I want to be angry, but ghosts can’t hear my ravings. I want to mourn, but the world arrogantly keeps spinning when it knows damn well and good it should stop.  “The only thing I knew how to do was to keep on keeping on…”</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82a3678a-3501-44cc-8f9e-a128ea3cdfa8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Redditor on Adult Swim</h1><p>It’s the background of our lives, you know? People get together and turn on the tv in late nights to laugh with each other. The weird absurdist humor of AS kept us company when we were alone, too. It was the one channel that spoke to us early 20 somethings in the early 2000s. It’s easy to dismiss this today now that there’s a million and one absurdist shows that are always trying to push boundaries. But back then it was genuinely absurdist and deeply subversive tot he new wave puritanical mindset the post 9/11 world had become crushed under.  Of course you’re depressed. Something that was a defining trait of your times has given up the ghost. You are very much OF your times. It was a unique space that will never come again. Society will never be what is was pre 9/11, and then post 9/11 again. You’ll never be that young or naive, or adventurous, or wreckless, or star struck again. New things will come, but they’ll probably cater to a demographic you no longer really are a part of and you’ll only understand it from the outside looking in. The “thing” of the coming future belongs to someone else, we will always be tourists in their native lands.  That deeply bitter, sickeningly sweet sorrow is just a part of growing older. I haven’t quite figured out what to do with it yet, either. I want to cling, but the past is too phantasmal to grab on to. I want to be angry, but ghosts can’t hear my ravings. I want to mourn, but the world arrogantly keeps spinning when it knows damn well and good it should stop.  “The only thing I knew how to do was to keep on keeping on…”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/658c322ef7b883815161232915d81ae9fe99f1f8.jpg"></article>]]></description>
             <link>http://hifidelity.tumblr.com/post/127521145935/reddit-comment</link>
             <guid isPermaLink="false">058d3ffa-2728-4b8d-84ac-98be5532c752</guid>
             <pubDate>Fri, 19 Feb 2016 21:25:54 GMT</pubDate>
