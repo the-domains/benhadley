@@ -1,6 +1,6 @@
 name: benhadley
 favicon: null
-layout_spectrum: 0.72538
+layout_spectrum: 1
 typography_spectrum: 0.35843278001993895
 title: Hi My Name Is Ben
 cta:
@@ -24,6 +24,6 @@ color:
     - '#F4F482'
   brandStrength: 0.5762358873616904
   lightness: 0.3125
-  saturation: 0.17227406683377922
+  saturation: 0.1875
   rhythmicContrast: 0
 purpose: []
