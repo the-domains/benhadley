@@ -4,7 +4,7 @@
         <description><![CDATA[Hi My Name Is Ben]]></description>
         <link>http://benhadley.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 01:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 01:40:27 GMT</lastBuildDate>
         <atom:link href="http://benhadley.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Food]]></title>
@@ -19,13 +19,6 @@
             <link>http://benhadley.com/5684adab-2b73-470f-aea8-898d9d0af5f7/index.html</link>
             <guid isPermaLink="false">5684adab-2b73-470f-aea8-898d9d0af5f7</guid>
             <pubDate>Wed, 24 Feb 2016 01:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blog Post]]></title>
-            <description><![CDATA[<h1>Blog Post</h1>]]></description>
-            <link>http://benhadley.com/blog-post/index.html</link>
-            <guid isPermaLink="false">1e2fdfdc-0ed1-41e9-8045-2885653b34ed</guid>
-            <pubDate>Wed, 24 Feb 2016 01:31:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Who?]]></title>
