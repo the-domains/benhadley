@@ -1,20 +1,4 @@
-name: benhadley
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.35843278001993895
-title: Hi My Name Is Ben
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#4989d3'
@@ -24,6 +8,11 @@ color:
     - '#393220'
   brandStrength: 0.375
   lightness: 0.6875
-  saturation: 0.0625
   rhythmicContrast: 0.75
+  saturation: 0.0625
+cta: {}
+layout_spectrum: 0.321791
+name: benhadley
+opengraph: {}
 purpose: []
+typography_spectrum: 0.35843278001993895
